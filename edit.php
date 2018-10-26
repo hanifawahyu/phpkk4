@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Database</title>
-	<link rel="stylesheet" type="text/css" href="semua.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<div class="judul">
