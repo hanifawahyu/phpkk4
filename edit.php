@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Database</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="semua.css">
 </head>
 <body>
 	<div class="judul">
@@ -11,7 +11,7 @@
 	<br/>
 
 	<section id="input-form">
-		<form action="edit-aksi.php" method="post">
+		<form action="input-aksi.php" method="post">
 			<div class="form">
 				<label>Id</label>
 				<input type="text" name="id">
